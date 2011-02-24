@@ -1,4 +1,5 @@
-Copacetic is a simple POST-only ajax lib.It is implemented as a closure, which calls a child program after connecting and receiving.
+Copacetic is a simple POST-only ajax lib.It is implemented as a closure, which calls a child program
+after connecting and receiving.
 
 http://www.urbandictionary.com/define.php?term=copacetic
 
@@ -13,7 +14,9 @@ document.addEventListener("DOMContentLoaded",
         COPACETIC.connect("toss.cgi", "foo=bar", CHILD.blab);
     }, true);
 
-This is a SUPER-BASIC library. It has been tested pretty well in production, but there are others out there that are much more comprehensive. On the other hand, it's small! On the gripping hand, it has a cool name.
+This is a SUPER-BASIC library. It has been tested pretty well in production, but there are others out 
+there that are much more comprehensive. On the other hand, it's small! On the gripping hand, it has 
+a cool name.
 
 Released under http://creativecommons.org/licenses/by-sa/1.0/legalcode
 
